@@ -1,0 +1,184 @@
+[
+    {
+      "titulo": "El Padrino",
+      "año": 1972,
+      "director": "Francis Ford Coppola",
+      "actoresPrincipales": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "sinopsis": "La historia de una poderosa familia mafiosa italiana en Nueva York.",
+      "categoria": "Drama",
+      "foto": "elpadrino.webp",
+      "valoraciones": [
+        {
+            "puntuación": 10,
+            "usuario": "JohnDoe",
+            "comentario": "Una obra maestra del cine, con actuaciones inolvidables."
+          },
+          {
+            "puntuación": 10,
+            "usuario": "JaneSmith",
+            "comentario": "Un clásico que sigue siendo relevante hoy en día."
+          }
+      ]
+    },
+    {
+        "titulo": "Dune",
+        "año": 2021,
+        "director": "Denis Villeneuve",
+        "actoresPrincipales": ["Timothée Chalamet", "Rebecca Ferguson", "Zendaya"],
+        "sinopsis": "Un joven noble es enviado a un planeta desértico para asegurar el futuro de su familia.",
+        "categoria": ["Ciencia Ficción", "Aventura"],
+        "duracion": 155, 
+        "idiomaOriginal": "Inglés",
+        "paisOrigen": "Estados Unidos",
+        "foto": "dune.jpg",
+        "trailer": "https://www.youtube.com/watch?v=tPKgmQh9gvQ",
+        "valoraciones": [
+          {
+            "usuario": "JohnDoe",
+            "puntuacion": 9,
+            "comentario": "Visualmente impresionante y una adaptación fiel del libro."
+          },
+          {
+            "usuario": "JaneSmith",
+            "puntuacion": 8,
+            "comentario": "La trama es compleja pero fascinante."
+          }
+        ]
+      },
+    {
+        "titulo": "Volver al futuro",
+        "año": 1985,
+        "director": "Robert Zemeckis",
+        "actoresPrincipales": ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson"],
+        "sinopsis": "Un adolescente es enviado accidentalmente al pasado en un DeLorean modificado.",
+        "categoria": "Ciencia Ficción",
+        "foto": "backtothefuture.webp",
+        "valoraciones": [
+          {
+            "puntuacion": 8,
+            "usuario": "MichaelJohnson",
+            "comentario": "Una película divertida y emocionante que nunca envejece."
+          },
+          {
+            "puntuacion": 9,
+            "usuario": "MichaelJohnson",
+            "comentario": "La química entre los actores es increíble."
+          }
+        ]
+      },
+      {
+        "titulo": "La Profecía",
+        "año": 1976,
+        "director": "Richard Donner",
+        "actoresPrincipales": ["Gregory Peck", "David Warner", "Bibi Andersson"],
+        "sinopsis": "Un periodista investiga una serie de muertes extrañas relacionadas con un antiguo ritual.",
+        "categoria": ["Terror", "Misterio"],
+        "duracion": 119,
+        "idiomaOriginal": "Inglés",
+        "paisOrigen": "Estados Unidos",
+        "foto": "la_profec_a_poster.png",
+        "valoraciones": [
+          {
+            "usuario": "MichaelJohnson",
+            "puntuacion": 7,
+            "comentario": "Un clásico del terror con una atmósfera inquietante."
+          }
+        ]
+      },
+      {
+        "titulo": "La Historia Interminable",
+        "año": 1984,
+        "director": "Wolfgang Petersen",
+        "actoresPrincipales": ["Barret Oliver", "Noah Hathaway", "Fami Shoji"],
+        "sinopsis": "Un niño introvertido encuentra un libro mágico que lo transporta a un mundo fantástico llamado Fantasía, que está al borde de la Nada.",
+        "categoria": ["Fantasía", "Aventura"],
+        "duracion": 102,
+        "idiomaOriginal": "Alemán", 
+        "paisOrigen": "Alemania Occidental",
+        "foto": "historia_interminable.png",
+        "valoraciones": [
+          {
+            "usuario": "AnaLee",
+            "puntuacion": 8,
+            "comentario": "Una película mágica que me transportó a mi infancia."
+          },
+          {
+            "usuario": "DavidGomez",
+            "puntuacion": 7,
+            "comentario": "Los efectos especiales eran impresionantes para su época."
+          }
+        ]
+      },
+      {
+        "titulo": "It",
+        "año": 2017,
+        "director": "Andy Muschietti",
+        "actoresPrincipales": ["Bill Skarsgård", "Jaeden Lieberher", "Finn Wolfhard"],
+        "sinopsis": "Un grupo de niños debe enfrentar a un antiguo mal que toma la forma de un payaso demoníaco.",
+        "categoria": ["Terror", "Misterio"],
+        "duracion": 135,
+        "idiomaOriginal": "Inglés",
+        "paisOrigen": "Estados Unidos",
+        "foto": "it.jpg", 
+        "valoraciones": [
+          {
+            "usuario": "SofiaPerez",
+            "puntuacion": 9,
+            "comentario": "Una adaptación muy fiel a la novela de Stephen King."
+          },
+          {
+            "usuario": "CarlosLopez",
+            "puntuacion": 8,
+            "comentario": "El payaso Pennywise es aterrador."
+          }
+        ]
+      },
+      {
+        "titulo": "Seven",
+        "año": 1995,
+        "director": "David Fincher",
+        "actoresPrincipales": ["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow"],
+        "sinopsis": "Dos detectives investigan una serie de asesinatos cometidos por un asesino en serie que utiliza los siete pecados capitales como motivo.",
+        "categoria": ["Thriller", "Crimen"],
+        "duracion": 127,
+        "idiomaOriginal": "Inglés",
+        "paisOrigen": "Estados Unidos",
+        "foto": "seven.jpg", 
+        "valoraciones": [
+          {
+            "usuario": "JuanPerez",
+            "puntuacion": 9,
+            "comentario": "Una película oscura y tensa que te mantiene al borde del asiento."
+          },
+          {
+            "usuario": "MariaLopez",
+            "puntuacion": 8,
+            "comentario": "La actuación de Morgan Freeman es simplemente brillante."
+          }
+        ]
+      },
+      {
+        "titulo": "El Silencio de los Corderos",
+        "año": 1991,
+        "director": "Jonathan Demme",
+        "actoresPrincipales": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+        "sinopsis": "Una joven agente del FBI busca la ayuda de un brillante pero psicópata asesino en serie para atrapar a otro asesino en serie.",
+        "categoria": ["Thriller", "Crimen"],
+        "duracion": 118,
+        "idiomaOriginal": "Inglés",
+        "paisOrigen": "Estados Unidos",
+        "foto": "the-silence-of-the-lambs-md-web.jpg", 
+        "valoraciones": [
+          {
+            "usuario": "PedroRodriguez",
+            "puntuacion": 10,
+            "comentario": "Una obra maestra del cine de suspense."
+          },
+          {
+            "usuario": "AnaGarcia",
+            "puntuacion": 9,
+            "comentario": "La actuación de Anthony Hopkins como Hannibal Lecter es inolvidable."
+          }
+        ]
+      }
+  ]
